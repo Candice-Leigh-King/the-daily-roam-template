@@ -1,7 +1,7 @@
 textarea_html: >-
-  <p><a href="/#services">services</a></p><p><a
-  href="/#gallery">gallery</a></p><p><a target="_blank" rel="noopener"
-  href="Contact@thedailyroam.com">contact</a></p>
+  <p>services</p><p><a href="/#gallery">gallery</a></p><p>contact</p><p><a
+  href="https://app.cloudcannon.com/update/107420/site#sites/107420/edit?editor=visual&amp;url=%2Fmedia-kit.html&amp;path=%2Fmedia-kit.html&amp;collection=pages">Media
+  Kit</a></p>
 colors:
   hamburger-color: '#edeff1'
   background-color: '#859f9f'
