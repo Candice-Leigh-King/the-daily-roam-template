@@ -3,14 +3,14 @@ textarea_html: >-
   href="/#reviews">review</a></p><p><a href="/#gallery">gallery</a></p><p><a
   href="/#contact">contact</a></p>
 colors:
-  hamburger-color: '#f4f4e4'
+  hamburger-color: '#edeff1'
   background-color: '#859f9f'
   textarea-background-color: '#bccaca'
-  border-color: '#f4f4e4'
+  border-color: '#edeff1'
   link-color: '#2f3031'
-  hover-link-color: '#f4f4e4'
+  hover-link-color: '#edeff1'
   exit-color: '#2f3031'
-  exit-hover-color: '#f4f4e4'
+  exit-hover-color: '#edeff1'
 border-radius:
   top-left-corner: 100%
   top-right-corner: 100%
@@ -20,7 +20,7 @@ fonts:
   link-font: Shrikhand, cursive;
 social-link-colors:
   icon-color: '#859f9f'
-  background-color: '#f4f4e4'
+  background-color: '#edeff1'
   border-color: '#6c7c7c'
   icon-hover-color: '#6c7c7c'
 icons-border-radius:
