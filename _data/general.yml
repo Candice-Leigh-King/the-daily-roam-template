@@ -1,7 +1,7 @@
 basics:
   logo_image: ''
   logo-alt: The Daily Roam Logo
-  your-brand-name: The Daily Roam
+  your-brand-name:
   email-address: contact@thedailyroam.com
   browser-tag_image: /favicon.ico
 social-links:
