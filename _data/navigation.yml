@@ -12,8 +12,8 @@ colors:
   exit-color: '#2f3031'
   exit-hover-color: '#edeff1'
 border-radius:
-  top-left-corner: '0'
-  top-right-corner: '0'
+  top-left-corner: 100%
+  top-right-corner: 100%
   bottom-left-corner: 0%
   bottom-right-corner: 0%
 fonts:
