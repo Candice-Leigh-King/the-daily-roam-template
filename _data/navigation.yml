@@ -3,14 +3,14 @@ textarea_html: >-
   href="/#reviews">review</a></p><p><a href="/#gallery">gallery</a></p><p><a
   href="/#contact">contact</a></p>
 colors:
-  hamburger-color: '#ffffff'
+  hamburger-color: '#f4f4e4'
   background-color: '#859f9f'
   textarea-background-color: '#bccaca'
-  border-color: '#ffffff'
+  border-color: '#f4f4e4'
   link-color: '#2f3031'
-  hover-link-color: '#ffffff'
+  hover-link-color: '#f4f4e4'
   exit-color: '#2f3031'
-  exit-hover-color: '#ffffff'
+  exit-hover-color: '#f4f4e4'
 border-radius:
   top-left-corner: 100%
   top-right-corner: 100%
