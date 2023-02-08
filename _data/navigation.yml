@@ -1,8 +1,4 @@
-textarea_html: >-
-  <p><a href="/#Home">Home</a></p><p><a href="/#Services">Services</a></p><p><a
-  href="/#Gallery">Gallery</a>​​​​</p><p><a href="/#Contact">Contact
-  Us</a></p><p><a href="https://thedailyroam.com/media-kit.html">Media
-  Kit</a></p>
+textarea_html: "<p><a href=\"/#Home\">Home</a></p><p><a href=\"/#Services\">Services</a></p><p><a href=\"/#Gallery\">Gallery</a>​​​​</p><p><a href=\"https://thedailyroam.com/media-kit.html\">Media Kit</a></p><p><a href=\"/#Contact\">Contact Us</a></p><p>\_</p>"
 colors:
   hamburger-color: '#edeff1'
   background-color: '#859f9f'
