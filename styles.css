@@ -855,7 +855,14 @@ footer {
     top: 24px;
     font-size: 2rem;
     }
-  .mobile-menu {left: 400px;}  
+    
+  .mobile-menu 
+    {
+    position: fixed;
+    top: 0;
+    right:0;
+    left:0px;
+    }
   
   .medium-image
     {margin-bottom: -0rem;}
