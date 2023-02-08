@@ -499,7 +499,7 @@ font-family: 'Shrikhand', cursive;*/
 
 .media-kit-padded-bottom {padding-bottom: 20px;}
 
-.number {font-size: 2rem;}
+.number {font-size: 1.5rem;}
 
 .media-kit img 
   {
@@ -902,7 +902,7 @@ footer {
 /* -------MEDIA KIT---------   */
 
 .number 
-  {font-size: 1.5rem;}
+  {font-size: 1.1rem;}
 
   
 @media(max-width:576px) {
